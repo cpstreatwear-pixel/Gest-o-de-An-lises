@@ -6,8 +6,6 @@ A apresentação preserva a estrutura visual do projeto original, com a remoçã
 
 ## Visualização
 
-[Acessar apresentação completa do dashboard (PDF)](dashboard.pdf)
-
 ## Confidencialidade
 
 Os dados operacionais foram removidos para permitir a apresentação profissional do projeto.<img width="8000" height="4564" alt="BI - Gestão de Análises - Portfólio_page-0009" src="https://github.com/user-attachments/assets/09156b6e-0229-4cc4-90ce-27c80e6fcceb" />
